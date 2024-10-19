@@ -19,3 +19,15 @@
 [submodule "docs/azure-docs"]
 	path = docs/azure-docs
 	url = git@github.com:MicrosoftDocs/azure-docs.git
+[submodule "prompts/Prompt-Engineering-Guide"]
+	path = prompts/Prompt-Engineering-Guide
+	url = git@github.com:dair-ai/Prompt-Engineering-Guide.git
+[submodule "prompts/prompt-engineering"]
+	path = prompts/prompt-engineering
+	url = git@github.com:brexhq/prompt-engineering.git
+[submodule "prompts/promptbase"]
+	path = prompts/promptbase
+	url = git@github.com:microsoft/promptbase.git
+[submodule "prompts/Awesome-Prompt-Engineering"]
+	path = prompts/Awesome-Prompt-Engineering
+	url = git@github.com:promptslab/Awesome-Prompt-Engineering.git
